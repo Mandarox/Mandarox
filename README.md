@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td align="center" width="200">
-      <img src="https://github.com/Mandarox/Mandarox/blob/main/Mandarox-removebg-preview.png" width="150" alt="Mandarox Logo"/>
+      <img src="https://github.com/Mandarox/Mandarox/blob/main/Mandarox-removebg-preview.png" width="250" alt="Mandarox Logo"/>
     </td>
     <td align="left">
       <h1>Hey 👋, We're <span style="color:#f97316;">Mandarox</span></h1>
