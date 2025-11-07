@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<YOUR_USERNAME>/<YOUR_REPO>/main/Mandarox.png" width="150" alt="Mandarox Logo"/>
+  <img src="https://github.com/Mandarox/Mandarox/edit/main/Mandarox-removebg-preview.png" width="150" alt="Mandarox Logo"/>
 </p>
 
 <h1 align="center">Hey 👋, We're <span style="color:#f97316;">Mandarox</span></h1>
