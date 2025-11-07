@@ -5,7 +5,7 @@
     </td>
     <td align="left">
       <h1>Hey 👋, We're <span style="color:#f97316;">Mandarox</span></h1>
-      <h3>💻 A group of friends passionate about tech, freelancing & innovation 🚀</h3>
+      <h3>💻 A group of freelancers passionate about tech, freelancing & innovation 🚀</h3>
       <p>
         We’re <b>Mandarox</b>, a small team of tech enthusiasts who turn ideas into digital reality.<br>
         From <b>web apps</b> to <b>creative automation tools</b>, we love building things that make life smarter.  
