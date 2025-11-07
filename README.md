@@ -12,7 +12,7 @@
       </p>
       <p>
         🌍 <b>Based in:</b> Everywhere our laptops go <br>
-        💼 <b>What we do:</b> Freelance | Web Development | UI/UX | APIs | Cloud <br>
+         💼 <b>What we do:</b> Freelance | Web & Software Development | UI/UX | APIs | DevOps | Testing | AI Tools <br>
         💬 <b>Motto:</b> “Fresh code, fox mind.” 🦊  
       </p>
     </td>
