@@ -24,16 +24,15 @@
 
 ### 🧩 Services Provided
 <p align="center">
-  <kbd>Web Development</kbd>
-  <kbd>Software Testing</kbd>
-  <kbd>DevOps & Automation</kbd>
-  <kbd>AI-Powered Solutions</kbd>
-  <kbd>UI/UX Design</kbd>
-  <kbd>Web Design</kbd>
-  <kbd>Logo & Brand Design</kbd>
-  <kbd>Custom Software Development</kbd>
-  <kbd>Application Development</kbd>
-  <kbd>Test Automation (Playwright / Cucumber)</kbd>
+  <img src="https://img.shields.io/badge/Web%20Development-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Software%20Testing-FF6F00?style=for-the-badge&logo=testcafe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Automation-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Solutions-8A2BE2?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/UI%20%2F%20UX%20Design-FF4088?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Custom%20Software%20Development-0A66C2?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Application%20Development-00C853?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Test%20Automation%20(BDD%20%2F%20Playwright)-79589F?style=for-the-badge&logo=playwright&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Logo%20%26%20Brand%20Design-FFB300?style=for-the-badge&logo=adobeillustrator&logoColor=white"/>
 </p>
 
 ---
