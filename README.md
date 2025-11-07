@@ -1,19 +1,23 @@
-<p align="center">
-  <img src="https://github.com/Mandarox/Mandarox/blob/main/Mandarox-removebg-preview.png" width="150" alt="Mandarox Logo"/>
-</p>
-
-<h1 align="center">Hey 👋, We're <span style="color:#f97316;">Mandarox</span></h1>
-<h3 align="center">💻 A group of friends passionate about tech, freelancing & innovation 🚀</h3>
-
----
-
-### 🦊 About Us
-We’re **Mandarox**, a small team of tech enthusiasts who turn ideas into digital reality.  
-From **web apps** to **creative automation tools**, we love building things that make life smarter.  
-
-🌍 **Based in:** Everywhere our laptops go  
-💼 **What we do:** Freelance | Web Development | UI/UX | APIs | Cloud  
-💬 **Motto:** “Fresh code, fox mind.” 🧠  
+<table align="center">
+  <tr>
+    <td align="center" width="200">
+      <img src="https://github.com/Mandarox/Mandarox/blob/main/Mandarox-removebg-preview.png" width="150" alt="Mandarox Logo"/>
+    </td>
+    <td align="left">
+      <h1>Hey 👋, We're <span style="color:#f97316;">Mandarox</span></h1>
+      <h3>💻 A group of friends passionate about tech, freelancing & innovation 🚀</h3>
+      <p>
+        We’re <b>Mandarox</b>, a small team of tech enthusiasts who turn ideas into digital reality.<br>
+        From <b>web apps</b> to <b>creative automation tools</b>, we love building things that make life smarter.  
+      </p>
+      <p>
+        🌍 <b>Based in:</b> Everywhere our laptops go <br>
+        💼 <b>What we do:</b> Freelance | Web Development | UI/UX | APIs | Cloud <br>
+        💬 <b>Motto:</b> “Fresh code, fox mind.” 🦊  
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
