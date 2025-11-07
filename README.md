@@ -10,6 +10,12 @@
         We’re <b>Mandarox</b>, a small team of tech enthusiasts who turn ideas into digital reality.<br>
         From <b>web apps</b> to <b>creative automation tools</b>, we love building things that make life smarter.  
       </p>
+
+       <p>
+        We’re <b>Mandarox</b>, a small team of tech enthusiasts who turn ideas into digital reality.<br>
+        From <b>web development</b> to <b>AI-driven automation</b> and <b>DevOps solutions</b>,  
+        we love building smart, scalable, and impactful products.
+      </p>
       <p>
         🌍 <b>Based in:</b> Everywhere our laptops go <br>
          💼 <b>What we do:</b> Freelance | Web & Software Development | UI/UX | APIs | DevOps | Testing | AI Tools <br>
